@@ -4,7 +4,6 @@ private double branchAngle = .5;
 public void setup() 
 {   
   size(640,480);    
-  noLoop(); 
 } 
 public void draw() 
 {   
